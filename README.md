@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rashmantri/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rashmantri/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
