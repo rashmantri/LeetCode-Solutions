@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rashmantri/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Hash Table
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rashmantri/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
